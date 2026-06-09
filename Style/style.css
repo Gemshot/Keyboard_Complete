@@ -16,7 +16,7 @@ body{
     border-width: 5px;
 }      
 
-.row1{
+.row1{  
     height: 10%;    
     display: flex;
     flex-direction: row;
