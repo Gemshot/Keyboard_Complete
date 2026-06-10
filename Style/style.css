@@ -64,32 +64,32 @@ body{
     justify-content: space-evenly;
 }
 
-#space {
+#Space {
     width: 35%;
 }
 
-#back {
+#Backspace {
     width: 10%;
 }
 
-#home, #up, #down, #end {
+#Home, #PageUp, #PageDown, #End {
     width: 5%;
 }
 
-#enter {
+#Enter {
     width: 7%;
 }
 
-#tab {
+#Tab {
     width: 10%;
 
 }
 
-#shiftR {
+#ShiftRight {
     width: 16%;
 }
 
-#cap {
+#CapsLock {
     width: 13% ;
 }
 
@@ -97,22 +97,22 @@ body{
     width: 5%;
 }
 
-#up {
+#ArrowUp {
     height: 20px;
-    transform: translate(0px, -10px);   
+    transform: translate(0px, -12px);   
 }
 
-#down{
+#ArrowDown{
     height: 20px;
-    transform: translate(952px, -23px);
+    transform: translate(943px, -25px);
 }
 
-#left{
+#ArrowLeft{
     width: 5%;
 
 }
 
-#right{
+#ArrowRight{
     width: 5%;
 
 }
